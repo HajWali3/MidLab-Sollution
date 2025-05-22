@@ -12,5 +12,3 @@ This is a simple Java-based Auction Management System that demonstrates the **Ob
 - Console-based output for simulation
 
 ---
-
-## 📁 Project Structure
